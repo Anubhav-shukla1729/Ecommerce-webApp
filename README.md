@@ -92,8 +92,9 @@ EMAIL_PORT=your_email_port
 EMAIL_USER=your_email_user
 EMAIL_PASSWORD=your_email_password
 
-
+```bash
 npm start
+
 
 
 
