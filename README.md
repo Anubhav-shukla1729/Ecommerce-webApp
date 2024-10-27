@@ -83,23 +83,29 @@ The application uses the following MongoDB collections:
    git clone https://github.com/your-username/MERN-E-Commerce.git
    npm install
 
-Create a .env file in the root directory with the following environment variables:
-   ```plaintext
-STRIPE_SECRET_KEY=your_stripe_secret_key
-MONGODB_URI=your_mongodb_uri
-EMAIL_HOST=your_email_host
-EMAIL_PORT=your_email_port
-EMAIL_USER=your_email_user
-EMAIL_PASSWORD=your_email_password
+   npm start
 
-```bash
-npm start
+   
 
 
 
 
 
----
+### Screenshots
+1 **1st
 
-This version uses code blocks to contain each section and better represents Markdown formatting for `README.md`. Let me know if you’d like further adjustments!
+![Screenshot from 2024-10-27 16-21-34](https://github.com/user-attachments/assets/e6419791-e381-4149-ab2a-ccfb9af50e12)
+
+2 **2nd
+
+![Screenshot from 2024-10-27 16-21-51](https://github.com/user-attachments/assets/96c26902-db38-4437-82c6-35acecdb198d)
+
+3 **3rd
+
+![Screenshot from 2024-10-27 16-22-05](https://github.com/user-attachments/assets/df738e31-a2de-4004-93df-f1d5a6be1207)
+
+
+
+
+
 
