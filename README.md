@@ -92,15 +92,15 @@ The application uses the following MongoDB collections:
 
 
 ### Screenshots
-1 **1st
+1st
 
 ![Screenshot from 2024-10-27 16-21-34](https://github.com/user-attachments/assets/e6419791-e381-4149-ab2a-ccfb9af50e12)
 
-2 **2nd
+2nd
 
 ![Screenshot from 2024-10-27 16-21-51](https://github.com/user-attachments/assets/96c26902-db38-4437-82c6-35acecdb198d)
 
-3 **3rd
+3rd
 
 ![Screenshot from 2024-10-27 16-22-05](https://github.com/user-attachments/assets/df738e31-a2de-4004-93df-f1d5a6be1207)
 
